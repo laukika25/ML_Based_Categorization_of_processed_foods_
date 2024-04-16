@@ -1,0 +1,87 @@
+Package_Food_category,Product Name,Serving Size(gm / ml),Calories per 100g(Kcal),Total Fats(gm),Cholestrol   (mg),Sodium(mg),Total Carbohydrates(gm),Sugar (gm),Proteins(gm)
+Biscuits,Hide seek,12.5,518,25.8,3.9,192,67,31.5,4.4
+Biscuits,Nice,13,463,15,0,274,76,30.5,6
+Biscuits,Good day,7.5,503,22.5,1.2,221,68.2,20.4,7
+Biscuits,Marie Gold,15,451,12.4,0,315,77.2,20,7.7
+Biscuits,Parle G,15,454,13,0,296,77.3,25.5,6.9
+Biscuits,Dark Fantasy,10,522,27.2,0,208.8,64.6,39.1,4.7
+Biscuits,Oreo,17,482,19.7,0,420,71.2,36.5,5.3
+Chocolates,Kit Kat,9.6,438,24.8,0,97.4,47.4,28.8,6.4
+Chocolates,Dairy Milk,20,532,29.2,20.7,129,60.4,57,7.8
+Chocolates,Munch,9.6,428,22.8,0,86.3,50,32.2,5.7
+Chocolates,5 Star,38,444,15.9,4.9,170,72.9,55.5,3.3
+Chocolates,Snickers,45,496,25.5,0,0.212,57.8,49.2,9.3
+Chocolates,Amul Dark Chocolate,10,522,33.1,0,38,51.4,43,6.4
+Chocolates,Hersheys Kisses,9,534,30,30,110,58,54,8
+Chocolates,Ferrero Rocher,12.5,603,42.7,5,60,44.4,39.9,8.2
+Chocolates,Cadbury Bournville,20,523,33,4.3,12,55.1,42.6,6.4
+Chocolates,Perk,5.5,514,25.3,2.7,62,69.1,46.1,3.4
+Bakery/Dairy Products,The Health Factory (Bread),25,245.22,1.3,0,333.52,44.66,4.22,13.72
+Bakery/Dairy Products,Britannia Fruit cake (veg),12,405,17,65,263,58,26.5,5
+Bakery/Dairy Products,Cadbury Chocobakes choc layered cake,19,465,21.3,4,226,64.4,42.1,3.8
+Bakery/Dairy Products,Bauli Moonfills choco puff roll,45,413,17.4,14.1,279.1,58.5,21.6,5.7
+Bakery/Dairy Products,Lotte Chocopie,28,441,17,0,214,68,34,4
+Bakery/Dairy Products,Chitale Pasteurised cow milk,100,69,3.8,0,15.1,5.1,4.7,3.6
+Bakery/Dairy Products,Amul cow fresh milk,200,67,4,12,44,4.7,4.7,3
+Bakery/Dairy Products,Amul masti curd,100,65,3.1,9,50,4.6,4.6,4
+Bakery/Dairy Products,Amul masti spiced buttermilk,200,29.3,1.5,0,0,2.3,2.3,1.3
+Bakery/Dairy Products,Amul Shrikhand,50,238,5,15,20,42,42,6.2
+Bakery/Dairy Products,Amul Fresh Malai Paneer,50,312,24,70,24,4,4,20
+Bakery/Dairy Products,Britannia Toast,18.2,434,9.1,0,321,80.4,25.6,7.6
+Ice cream/frozen desserts,Cornetto ,64,200,9.5,8.5,71,25.7,17.3,3.6
+Ice cream/frozen desserts,Amul ,156,67,9,27,33,16,15,3
+Ice cream/frozen desserts,Kwality Walls,68,235,13.5,0,50,25.3,18.9,2.9
+Ice cream/frozen desserts,Havmor chocolate cone,150,416.4,20.6,9,31.8,51,33.8,5.7
+packed chips,Lays,20,534,32,0,671,55.1,6,6.4
+packed chips,haldirams bhujiya,50,592,43.5,0,771,37.14,0,12.93
+packed chips,kurkure,20,561,34.7,0,959,56.3,2.1,5.9
+packed chips,balaij chips,30,539,29.5,1,750,56.9,5.2,7.4
+packed chips,doritos,20,499,23.4,0,641,55.6,6.5,6.6
+packed chips,chedda's banana chips,28,535,28.57,0,246,64.2,3.57,3.57
+packed chips,pringles chips,25,1518,28.3,0,837,61.2,1.5,4.7
+soft drinks,coca cola,200,44,0,0,8.5,10.9,10.6,0
+soft drinks,fanta,200,56,0,0,22.3,14,13.7,0
+soft drinks,red bull,100,45,0,0,41,11,11,0
+soft drinks,gatorade,100,24,0,0,48,6,6,0
+soft drinks,maaza,100,63,0,0,21.9,15.8,14.9,0
+soft drinks,minute maid,200,52,0,0,9.6,13,12.7,0
+Biscuits,Digestive,10.0,400.0,15.0,0.0,200.0,60.0,20.0,5.0
+Biscuits,Multigrain,10.0,350.0,10.0,0.0,180.0,50.0,15.0,8.0
+Biscuits,Fruit and Nut,10.0,380.0,12.0,0.0,190.0,55.0,18.0,6.0
+Biscuits,Cream Biscuits,10.0,450.0,20.0,5.0,250.0,70.0,25.0,4.0
+Biscuits,Cheese Crackers,10.0,480.0,25.0,10.0,300.0,65.0,30.0,3.0
+Chocolates,Dark Chocolate,20.0,550.0,35.0,0.0,150.0,60.0,25.0,8.0
+Chocolates,Sugar-free Chocolate,20.0,300.0,15.0,0.0,100.0,40.0,5.0,10.0
+Bakery/Dairy Products,Low-fat Yogurt,100.0,60.0,1.0,0.0,40.0,10.0,5.0,8.0
+Bakery/Dairy Products,Whole Milk,200.0,70.0,3.0,5.0,60.0,8.0,6.0,4.0
+Bakery/Dairy Products,Regular Cheese,30.0,120.0,8.0,15.0,100.0,2.0,0.0,6.0
+Biscuits,Oatmeal Cookies,10.0,380.0,18.0,5.0,210.0,50.0,15.0,5.0
+Biscuits,Chocolate Chip Cookies,10.0,420.0,22.0,8.0,240.0,55.0,20.0,4.0
+Biscuits,Shortbread Cookies,10.0,450.0,25.0,10.0,270.0,60.0,25.0,3.0
+Biscuits,Peanut Butter Cookies,10.0,400.0,20.0,6.0,220.0,45.0,18.0,6.0
+Biscuits,Coconut Cookies,10.0,380.0,17.0,4.0,200.0,40.0,15.0,7.0
+Chocolates,Milk Chocolate,20.0,530.0,30.0,10.0,160.0,50.0,25.0,6.0
+Chocolates,White Chocolate,20.0,480.0,28.0,12.0,180.0,45.0,30.0,5.0
+Chocolates,Hazelnut Chocolate,20.0,550.0,35.0,15.0,200.0,60.0,28.0,7.0
+Chocolates,Caramel-filled Chocolate,20.0,500.0,32.0,14.0,190.0,55.0,22.0,8.0
+Chocolates,Almond Chocolate,20.0,520.0,34.0,13.0,210.0,58.0,27.0,6.0
+Bakery/Dairy Products,Low-fat Cottage Cheese,100.0,80.0,2.0,5.0,80.0,3.0,2.0,10.0
+Bakery/Dairy Products,Butter,10.0,720.0,81.0,30.0,10.0,0.0,0.0,0.0
+Bakery/Dairy Products,Whipped Cream,20.0,300.0,30.0,10.0,20.0,5.0,4.0,2.0
+Bakery/Dairy Products,Heavy Cream,20.0,400.0,45.0,20.0,30.0,3.0,2.0,3.0
+Bakery/Dairy Products,Low-fat Milk,200.0,50.0,1.0,2.0,40.0,7.0,6.0,4.0
+Bakery/Dairy Products,Evaporated Milk,100.0,135.0,8.0,5.0,60.0,10.0,8.0,6.0
+packed chips,Potato Chips,30.0,500.0,30.0,0.0,200.0,50.0,1.0,5.0
+packed chips,Tortilla Chips,30.0,480.0,25.0,0.0,220.0,55.0,2.0,6.0
+packed chips,Pretzels,30.0,400.0,5.0,0.0,300.0,80.0,2.0,8.0
+packed chips,Corn Chips,30.0,450.0,20.0,0.0,250.0,60.0,3.0,7.0
+Ice cream/frozen desserts,Chocolate Ice Cream,100.0,250.0,15.0,20.0,50.0,30.0,25.0,5.0
+Ice cream/frozen desserts,Strawberry Ice Cream,100.0,220.0,12.0,18.0,40.0,28.0,20.0,4.0
+Ice cream/frozen desserts,Vanilla Ice Cream,100.0,200.0,10.0,15.0,35.0,25.0,18.0,3.0
+Ice cream/frozen desserts,Mint Chocolate Chip Ice Cream,100.0,280.0,18.0,22.0,55.0,35.0,30.0,6.0
+Ice cream/frozen desserts,Cookies and Cream Ice Cream,100.0,300.0,20.0,25.0,60.0,40.0,32.0,5.0
+soft drinks,Coca-Cola,355.0,140.0,0.0,0.0,45.0,39.0,39.0,0.0
+soft drinks,Pepsi,355.0,150.0,0.0,0.0,40.0,41.0,38.0,0.0
+soft drinks,Sprite,355.0,140.0,0.0,0.0,30.0,38.0,38.0,0.0
+soft drinks,Mountain Dew,355.0,170.0,0.0,0.0,60.0,46.0,45.0,0.0
+soft drinks,Dr. Pepper,355.0,150.0,0.0,0.0,50.0,42.0,40.0,0.0
